@@ -8,4 +8,4 @@ Imaginando um cenário que uma empresa do ramo de utensílios hospitalares desej
  O braço na codificação em Python, usei as bibliotecas Pandas, Matplotlib e seaborn para tratar Outlines dos dados capturados e fazer uma pequena série de gráficos pra incrementos que serão exibidos no Looker.
 
 Link para a vialização:
-https://lookerstudio.google.com/s/vv9DvV-uydM
+**https://lookerstudio.google.com/s/vv9DvV-uydM**
